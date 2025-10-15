@@ -1,5 +1,8 @@
 <h1 align="center">HeY 👋, It's me AL-AMIN</h1>
-<h3 align="center"></h3>
+<h3 align="center">Python & AI enthusiast, coding from Bangladesh.  
+💡 Passionate about building smart solutions and exploring new tech.  
+🌐 Always learning, experimenting, and contributing to open-source projects.  
+🛠️ Lover of clean code, algorithms, and all things Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminshowrov&label=Profile%20views&color=0eb456&style=flat-square" alt="alaminshowrov" /> </p>
 
