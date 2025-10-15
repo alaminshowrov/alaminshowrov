@@ -1,5 +1,5 @@
 <h1 align="center">Creative Error</h1>
-<h3 align="center">I am Al_Amin 👉Python & AI enthusiast🤖 .💡 Passionate about building smart solutions and exploring new tech✌️. I Always learning, experiment with myself🤯. Lover of clean code❤️‍🩹, algorithms😬, and all this python🩻.</h3>
+<h3 align="center">Hi It's Al-Amin🤘, a interestins characte which has a lot of interest in Machine Learning and AI🤖 .💡 Passionate about building smart solutions and exploring new tech✌️. I Always learning, experiment with myself🤯. Lover of clean code❤️‍🩹, algorithms😬, and all this python🩻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminshowrov&label=Profile%20views&color=5c00cc&style=plastic" alt="alaminshowrov" /> </p>
 
