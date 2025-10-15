@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminshowrov&label=Profile%20views&color=5c00cc&style=plastic" alt="alaminshowrov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminshowrov" alt="alaminshowrov" /></a> </p>
-
 - 🔭 I’m currently start internship at CI **With ML(machine learning)**
 
 - 🌱 I’m currently learning **Python, C, C++, SQL.**
