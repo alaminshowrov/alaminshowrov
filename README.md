@@ -1,5 +1,5 @@
 <h1 align="center">HeY 👋, It's me AL-AMIN</h1>
-<h3 align="center">Python & AI enthusiast, coding from Bangladesh.  
+<h3 align="center">I'm Python & AI enthusiast, coding from Bangladesh.  
 💡 Passionate about building smart solutions and exploring new tech.  
 🌐 Always learning, experimenting, and contributing to open-source projects.  
 🛠️ Lover of clean code, algorithms, and all things Python.</h3>
