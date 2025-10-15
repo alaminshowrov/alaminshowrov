@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AL-AMIN</h1>
-<h3 align="center">A passionate Machine Learning from Creative IT!</h3>
+<h1 align="center">HeY 👋, It's me AL-AMIN</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminshowrov&label=Profile%20views&color=0eb456&style=flat-square" alt="alaminshowrov" /> </p>
 
